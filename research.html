@@ -1,0 +1,46 @@
+---
+layout:        default
+title:         BCI Research
+---
+
+<!-- CSS -->
+<link rel="stylesheet" href="./assets/project_css/main.css">
+<section class="category_posts-body">
+    <div class="content-wrapper">
+        <div class="posts">
+            <br>
+
+            {% for post in site.posts %}
+            <div class="post-teaser">
+                <div class="post-img">
+                    <img src="./assets/img/BAIR_Logo_notype.png">
+                </div>
+
+                <div class="info">
+                    <header>
+                        <a class="post-link" href="#">
+                            <h2>{{ post.title }}</h2>
+                        </a>
+
+                        <p class="meta">{{ post.authors }}</p>
+                    </header>
+
+                    {% if post.excerpt != post.content %}
+                        <div class="excerpt">
+                            <div class="excerpt-text">
+                                {{ post.excerpt }}
+                            </div>
+                            <div class="excerpt-continue">
+                                <a class="button" href="{{ site.baseurl }}{{post.url}}">
+                                    Continue reading
+                                </a>
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</section>

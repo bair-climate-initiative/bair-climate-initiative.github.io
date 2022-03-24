@@ -1,0 +1,26 @@
+---
+layout:        default
+title:         BCI People
+---
+<section class="wrapper bg-light" style="margin-top:1em">
+    <div class="container py-lg-8 gx-lg-8 gx-xl-12 py-md-4">
+        
+        {% for division in site.data.people %}
+        <div class="row gx-lg-8 gx-xl-12 gy-10">
+            <h2>BCI {{ division.title }}</h2>
+            {% for person in division.people %}
+            <div class="item col-md-3 col-sm-6" style="text-align:center">
+                <a href="{{ person.website }}" target="_blank">
+                    <img class="" style="border-radius: 40px; width: 74%; margin-bottom:1.3em"
+                        src="./assets/img/people/{{ person.image }}" alt="{{ person.name }}" />
+                </a>
+                <h4 class="mb-1">
+                    <a style="color:#343F52" href="{{ person.website}}" target="_blank">{{ director.name }}</a>
+                </h4>
+                <div class="meta mb-2" style="padding-bottom:0em">{{ person.role }}</div>
+            </div>
+            {% endfor %}
+        {% endfor %}
+        </div>
+    </div>
+</section>
