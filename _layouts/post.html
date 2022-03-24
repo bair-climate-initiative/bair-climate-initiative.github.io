@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/project_css/main.css">
+<body>
+
+    {% include nav.html %}
+
+    <div class="content-wrapper">
+        <section class="category_posts-body">
+            <div class="content-wrapper">
+                <div class="posts">
+                    <br>
+        
+                    {% for post in site.posts %}
+                    <div class="post-teaser">
+                        <div class="post-img">
+                            <img src="{{ site.baseurl }}/assets/img/BAIR_Logo_notype.png">
+                        </div>
+        
+                        <div class="info">
+                            <header>
+                                <a class="post-link" href="#">
+                                    <h2>{{ post.title }}</h2>
+                                </a>
+        
+                                <p class="meta">{{ post.authors }}</p>
+                            </header>
+        
+                            <div class="excerpt">
+                                <div class="excerpt-text">
+                                    {{ content }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+        
+                </div>
+            </div>
+        </section>
+
+    {% include footer.html %}
+    {% include extra.html %}
+    </div>
+
+</body>
+
+</html>

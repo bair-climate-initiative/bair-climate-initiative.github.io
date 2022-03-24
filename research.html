@@ -25,18 +25,16 @@ title:         BCI Research
                         <p class="meta">{{ post.authors }}</p>
                     </header>
 
-                    {% if post.excerpt != post.content %}
-                        <div class="excerpt">
-                            <div class="excerpt-text">
-                                {{ post.excerpt }}
-                            </div>
-                            <div class="excerpt-continue">
-                                <a class="button" href="{{ site.baseurl }}{{post.url}}">
-                                    Continue reading
-                                </a>
-                            </div>
+                    <div class="excerpt">
+                        <div class="excerpt-text">
+                            {{ post.excerpt }}
                         </div>
-                    {% endif %}
+                        <div class="excerpt-continue">
+                            <a class="button" href="{{ site.baseurl }}{{post.url}}">
+                                Continue reading
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
             {% endfor %}
