@@ -1,15 +1,30 @@
 /* Glyph, by Harry Roberts */
 
+#hero-header {
+    color: white; 
+    padding: 8rem 4rem; 
+    background: rgba(0,0,0,0.4); 
+    text-align: center; 
+    border-radius: 8px; 
+    margin: 0; 
+    font-size: 2rem;
+}
+
+#main-info {
+    padding-left:6em; 
+    padding-right:6em; 
+    margin-top:2.4em; 
+    margin-bottom: -4em;    
+}
+
 hr.style-eight {
-    overflow: visible;
-    /* For IE */
+    overflow: visible; /* For IE */
     padding: 0;
     border: none;
     border-top: medium double #333;
     color: #333;
     text-align: center;
 }
-
 hr.style-eight:after {
     content: "§";
     display: inline-block;
@@ -20,15 +35,25 @@ hr.style-eight:after {
     background: white;
 }
 
+
 /* Flaired edges, by Tomas Theunissen */
 
 hr.style-seven {
-    overflow: visible;
-    /* For IE */
+    overflow: visible; /* For IE */
     height: 30px;
     border-style: solid;
     border-color: black;
     border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
     border-radius: 20px;
 }
 
@@ -36,11 +61,25 @@ hr.style-seven {
     text-align: center !important;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 650px) {
     .nav_logo1 {
-        width: 6em !important;
+        width:6em !important;
     }
     .nav_logo2 {
-        width: 11em !important;
+        width:11em !important;
+    }
+
+    #hero-header {
+        padding: 2rem 1rem; 
+        font-size: 1.7rem;
+    }
+
+    #main-info {
+        padding-left: 0;   
+        padding-right: 0;   
+    }
+    
+    #mobile-nav {
+        padding: 2rem 1rem;
     }
 }

@@ -1,18 +1,18 @@
-- title: Directors
+- title: Organizers
   people:
     - name: Colorado Reed
       website: https://people.eecs.berkeley.edu/~cjrd/
-      role: Ph.D. Student
+      role: BAIR Ph.D. Student
       image: colorado.jpeg
 
     - name: Ritwik Gupta
       website: https://ritwikgupta.me/
-      role: Ph.D. Student
+      role: BAIR Ph.D. Student
       image: ritwik.jpeg
 
     - name: Medhini Narasimhan
       website: https://medhini.github.io/
-      role: Ph.D. Student
+      role: BAIR Ph.D. Student
       image: medhini.png
 
 - title: Faculty
@@ -37,12 +37,17 @@
       role: Assistant Professor, Environmental Science
       image: manuela.jpeg
 
-- title: Students
+- title: Researchers and Students
   people:
     - name: Marianne Cowherd
       website: https://nature.berkeley.edu/stephenslab/lab-members/marianne-cowherd/
       role: Ph.D. Student, Fire and Snow Hydrology
       image: marianne.jpeg
+
+    - name: Shiheng Duan
+      website: https://scholar.google.com/citations?user=OymODQIAAAAJ&hl=en
+      role: Ph.D. Student, Snow Hydrology
+      image: shiheng.png
 
     - name: Araav Patel
       website: https://www.linkedin.com/in/araavpatel/
