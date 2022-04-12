@@ -39,6 +39,11 @@
 
 - title: Researchers and Students
   people:
+    - name: Araav Patel
+      website: https://www.linkedin.com/in/araavpatel/
+      role: Undergraduate, EECS
+      image: araav.jpeg
+
     - name: Marianne Cowherd
       website: https://nature.berkeley.edu/stephenslab/lab-members/marianne-cowherd/
       role: Ph.D. Student, Fire and Snow Hydrology
@@ -47,9 +52,10 @@
     - name: Shiheng Duan
       website: https://scholar.google.com/citations?user=OymODQIAAAAJ&hl=en
       role: UC Davis Ph.D. Student, Atmospheric Science
-      image: shiheng.png
-
-    - name: Araav Patel
-      website: https://www.linkedin.com/in/araavpatel/
-      role: Undergraduate, EECS
-      image: araav.jpeg
+      image: shiheng.png  
+      
+    - name: Daniel Rothchild
+      website: https://daniel.rothchild.me
+      role: BAIR Ph.D.
+      image: droth.jpg
+      
