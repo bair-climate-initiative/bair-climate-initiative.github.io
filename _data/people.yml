@@ -27,15 +27,15 @@
       role: Professor, BAIR
       image: kurt.jpg
 
-    - name: Daniel Feldman
-      website: https://eesa.lbl.gov/profiles/daniel-feldman/
-      role: Staff Scientist, Berkeley Lab
-      image: feldman.jpeg
-
     - name: Manuela Girotto
       website: https://ourenvironment.berkeley.edu/users/1636803
       role: Assistant Professor, Environmental Science
       image: manuela.jpeg
+
+    - name: Daniel Feldman
+      website: https://eesa.lbl.gov/profiles/daniel-feldman/
+      role: Staff Scientist, Berkeley Lab
+      image: feldman.jpeg
 
 - title: Researchers and Students
   people:
