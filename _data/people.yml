@@ -19,13 +19,13 @@
   people:
     - name: Trevor Darrell
       website: https://people.eecs.berkeley.edu/~trevor/
-      role: Founding Co-Director, Berkeley AI Research
+      role: Professor and Founding Co-Director, Berkeley AI Research
       image: trevor.jpeg
 
-    - name: Angjoo Kanazawa
-      website: http://people.eecs.berkeley.edu/~kanazawa/
-      role: Assistant Professor, BAIR
-      image: angjoo.png
+    - name: Kurt Keutzer
+      website: http://people.eecs.berkeley.edu/~keutzer/
+      role: Professor, BAIR
+      image: kurt.jpg
 
     - name: Daniel Feldman
       website: https://eesa.lbl.gov/profiles/daniel-feldman/
