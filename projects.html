@@ -1,0 +1,26 @@
+---
+layout:        default
+title:         BCI Projects
+description:   The Berkeley AI Research Climate Initiative is a community of researchers and practitioners working to create better data, methods, and models that enable us as a society to better take care of our planet and the limited resources on it. This page shows our current projects.
+---
+<section class="wrapper bg-light" style="margin-top:1em">
+	<div class="container py-lg-8 gx-lg-8 gx-xl-12 py-md-4">
+        <h1>BAIR Climate Initiative Projects</h1>
+        <p class="lead fs-lg">Observational, Multimodal, and Multiscale (OMMS) data sources are ubiquitous in scientific fields related to climate change, such as hydrology. These data are difficult to obtain, hard to align, and require bespoke engineering to use in machine learning pipelines. The initial focus of the BAIR Climate Initiative (BCI) is on developing methods, benchmarks, and software frameworks for integrating OMMS data sources with machine learning libraries, thus reducing programming overhead for scientists while improving the AI methods that can be used for these problems.</p>
+        <section class="wrapper bg-light" style="margin-top:1em">
+                {% for proj in site.data.projects %}
+                <div class="py-lg-8 gx-lg-8 gx-xl-12 py-md-4">
+                    <h2>Project: {{ proj.title }}</h2>
+                    <div class="row">
+                        <div class="col-md-4">
+                        <img style="border-radius: 10px;" src="./assets/img/projs/{{ proj.image }}" width="100%">
+                        </div>
+                        <div class="col-md-8">
+                            <p class="fs-lg">{{ proj.description }}</p>
+                        </div>
+                    </div>        
+                </div>
+                {% endfor %}
+        </section>
+    </div>
+</section>
