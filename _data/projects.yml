@@ -6,3 +6,6 @@
   image: hab.png
   description: The BCI is working with NASA Earth Science Applied Sciences to design and administer a prize competition that will challenge participants to identifies cyanobacteria blooms in small water bodies (lakes, shorelines) -- a crucial identification task needed by water resource managers to rapidly detect and mitigate harmful algae blooms. This project relies on Observational, Multimodal, and Multiscale (OMMS) data sources to identify harmful algal blooms.
 
+- title: Animal Re-Identification in Camera Traps
+  image: elephants.png
+  description: Poaching of Gorillas, Chimpanzees, and Elephants is a major problem for the National Park Service in Nigeria. Currently, there is no good way to keep track of the count of individual species in these parks. Given still images from the camera traps in these parks, our objective is to find out if computer vision techniques can be used to automatically obtain a count of the different species. It would be time-consuming to have human annotators/biologists manually go through all the data and label it. We would like to use unsupervised and self-supervised methods, like those used in human face recognition, to automate this task. 
