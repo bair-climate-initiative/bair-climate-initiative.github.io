@@ -9,3 +9,7 @@
 - title: Animal Re-Identification in Camera Traps
   image: elephants.png
   description: Poaching of Gorillas, Chimpanzees, and Elephants is a major problem for the National Park Service in Nigeria. Currently, there is no good way to keep track of the count of individual species in these parks. Given still images from the camera traps in these parks, our objective is to find out if computer vision techniques can be used to automatically obtain a count of the different species. It would be time-consuming to have human annotators/biologists manually go through all the data and label it. We would like to use unsupervised and self-supervised methods, like those used in human face recognition, to automate this task. 
+
+- title: NumS
+  image: nums.jpeg
+  description: NumS optimizes large-scale numerical array operations for the NumPy API, enabling scalable execution speeds competitive with state-of-the-art C++ libraries, such as SLATE and ScaLAPACK, and achieves up to 6x speedup over Dask and Spark on statistical modeling, linear algebra, and tensor algebra operations. NumS integrates with ZARR, a cloud-agnostic partitioned array format, providing fast I/O for CMIP6 from any cloud computing provider. <br />The NumS team has formed a collaboration with the National Observatory of Athens research group to scale their deep learning methods for daily wildfire danger forecasting, which is currently only available for Greece. Our collaboration aims to scale their wildfire prediction methods to the entire planet.
