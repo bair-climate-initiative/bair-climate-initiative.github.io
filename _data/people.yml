@@ -2,7 +2,7 @@
   people:
     - name: Colorado Reed
       website: https://people.eecs.berkeley.edu/~cjrd/
-      role: BAIR Ph.D. Student
+      role: BAIR Ph.D. Candidate
       image: colorado.jpeg
 
     - name: Medhini Narasimhan
@@ -37,6 +37,11 @@
       role: Assistant Professor, Environmental Science
       image: manuela.jpeg
 
+    - name: Shankar Sastry
+      website: https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html
+      role: Professor and Director, Richard C. Blum Center for Developing Economies
+      image: sastry.jpeg
+
     - name: Trevor Darrell
       website: https://people.eecs.berkeley.edu/~trevor/
       role: Professor and Founding Co-Director, Berkeley AI Research
@@ -59,6 +64,11 @@
       website: https://www.devinguillory.com
       role: BAIR Ph.D. Student
       image: deving.jpg
+
+    - name: Eesha Thaker
+      website: https://www.linkedin.com/in/eesha-thaker-38708222a/
+      role: Undergraduate, L&S
+      image: eesha.png
 
     - name: Hari Prasanna Das
       website: http://hariprasanna.com
