@@ -1,22 +1,10 @@
-- title: Organizers
-  people:
-    - name: Colorado Reed
-      website: https://people.eecs.berkeley.edu/~cjrd/
-      role: BAIR Ph.D. Candidate
-      image: colorado.jpeg
-
-    - name: Medhini Narasimhan
-      website: https://medhini.github.io/
-      role: BAIR Ph.D. Student
-      image: medhini.png
-
-    - name: Ritwik Gupta
-      website: https://ritwikgupta.me/
-      role: BAIR Ph.D. Student
-      image: ritwik.jpeg
-
 - title: Faculty
   people:
+    - name: Alberto Todeschini
+      website: https://www.ischool.berkeley.edu/people/alberto-todeschini
+      role: AI Lecturer, School of Information
+      image: alberto.jpg
+
     - name: Angjoo Kanazawa
       website: http://people.eecs.berkeley.edu/~kanazawa/
       role: Assistant Professor, Berkeley AI Research
@@ -46,6 +34,23 @@
       website: https://people.eecs.berkeley.edu/~trevor/
       role: Professor and Founding Co-Director, Berkeley AI Research
       image: trevor.jpeg
+
+- title: Organizers
+  people:
+    - name: Colorado Reed
+      website: https://people.eecs.berkeley.edu/~cjrd/
+      role: BAIR Ph.D. Candidate
+      image: colorado.jpeg
+
+    - name: Medhini Narasimhan
+      website: https://medhini.github.io/
+      role: BAIR Ph.D. Student
+      image: medhini.png
+
+    - name: Ritwik Gupta
+      website: https://ritwikgupta.me/
+      role: BAIR Ph.D. Student
+      image: ritwik.jpeg
 
 
 - title: Researchers and Students
@@ -84,6 +89,11 @@
       website: https://neerja.me/
       role: BAIR Ph.D. Student
       image: neerja.jpeg
+
+    - name: Sherrie Wang
+      website: http://www.globalpolicy.science/sherrie-wang
+      role: Postdoc, Global Policy Lab
+      image: sherrie.jpg  
     
     - name: Shiheng Duan
       website: https://scholar.google.com/citations?user=OymODQIAAAAJ&hl=en
