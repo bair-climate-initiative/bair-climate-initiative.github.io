@@ -90,6 +90,11 @@
       role: BAIR Ph.D. Student
       image: neerja.jpeg
 
+    - name: Ross Mower
+      website: https://www.linkedin.com/in/rossmower/
+      role: Associate Scientist, NCAR 
+      image: ross.jpg  
+
     - name: Sherrie Wang
       website: http://www.globalpolicy.science/sherrie-wang
       role: Postdoc, Global Policy Lab
