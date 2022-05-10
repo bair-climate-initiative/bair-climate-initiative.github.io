@@ -55,6 +55,12 @@
 
 - title: Researchers and Students
   people:
+  
+    - name: Ankur Mahesh
+      website: https://www.linkedin.com/in/ankurmahesh/
+      role: Ph.D. Student, Earth and Planetary Sciences
+      image: ankur.jpg
+  
     - name: Araav Patel
       website: https://www.linkedin.com/in/araavpatel/
       role: Undergraduate, EECS
@@ -82,7 +88,7 @@
       
     - name: Marianne Cowherd
       website: https://nature.berkeley.edu/stephenslab/lab-members/marianne-cowherd/
-      role: Ph.D. Student, Fire and Snow Hydrology
+      role: Ph.D. Candidate, Fire and Snow Hydrology
       image: marianne.jpeg
 
     - name: Neerja Thakkar

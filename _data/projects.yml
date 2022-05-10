@@ -1,6 +1,6 @@
 - title: Fate of Snow
   image: fos.jpg
-  description: To drive research and development for Observational, Multimodal, and Multiscale (OMMS) data sources, the BCI is launching a benchmark paired with an international prize competition focused on the 'Fate of Snow' in partnership with Lawrence Berkeley National Laboratory and Meta AI. The Fate of Snow project will aim to model and predict the partitioning of snow over basin-scales in high-altitude complex terrain. By combining a range of remote sensing, in-situ, and simulated data sources, we aim to create a multifaceted benchmark of estimates of observational constraints on the major fluxes of water including evapotranspiration, snow sublimation, infiltration and runoff.
+  description: To drive research and development for Observational, Multimodal, Multiscale, Spatiotemporal (OMMS) data sources, the BCI is launching a benchmark paired with an international prize competition focused on the 'Fate of Snow' in partnership with Lawrence Berkeley National Laboratory and industrial partners. The Fate of Snow project will aim to model and predict the partitioning of snow over basin-scales in high-altitude complex terrain. By combining a range of remote sensing, in-situ, and simulated data sources, we aim to create a multifaceted benchmark of estimates of observational constraints on the major fluxes of water including evapotranspiration, snow sublimation, infiltration and runoff.
 
 - title: Harmful Algal Bloom Detection
   image: hab.png
