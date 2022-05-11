@@ -1,4 +1,4 @@
-- title: Faculty
+- title: Faculty and Scientists
   people:
     - name: Alberto Todeschini
       website: https://www.ischool.berkeley.edu/people/alberto-todeschini
@@ -29,6 +29,11 @@
       website: https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html
       role: Professor and Director, Richard C. Blum Center for Developing Economies
       image: sastry.jpeg
+      
+    - name: Sherrie Wang
+      website: http://www.globalpolicy.science/sherrie-wang
+      role: Postdoc, Global Policy Lab
+      image: sherrie.jpg  
 
     - name: Trevor Darrell
       website: https://people.eecs.berkeley.edu/~trevor/
@@ -98,18 +103,13 @@
 
     - name: Ross Mower
       website: https://www.linkedin.com/in/rossmower/
-      role: Associate Scientist, NCAR 
+      role: Associate Scientist, NCAR; MIDS Student, Berkeley
       image: ross.jpeg
 
     - name: Sean Metzger
       website: https://sean-metzger.github.io
       role: Bioengineering Ph.D. Candidate, UCSF & Berkeley
       image: seanm.jpg
-
-    - name: Sherrie Wang
-      website: http://www.globalpolicy.science/sherrie-wang
-      role: Postdoc, Global Policy Lab
-      image: sherrie.jpg  
     
     - name: Shiheng Duan
       website: https://scholar.google.com/citations?user=OymODQIAAAAJ&hl=en
