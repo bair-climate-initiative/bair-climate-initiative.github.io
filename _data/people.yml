@@ -90,7 +90,17 @@
       website: http://hariprasanna.com
       role: BAIR Ph.D. Student
       image: hari.jpeg
-      
+    
+    - name: Kayla Wopschall
+      website: https://www.ischool.berkeley.edu/people/kayla-wopschall
+      role: Applied and Data Scientist with Microsoft, Ph.D. 
+      image: kayla.jpg
+  
+    - name: Malachy Moran
+      website: https://www.ischool.berkeley.edu/people/malachy-moran
+      role: Data Scientist and MIDS graduate
+      image: mal.jpg
+    
     - name: Marianne Cowherd
       website: https://nature.berkeley.edu/stephenslab/lab-members/marianne-cowherd/
       role: Ph.D. Candidate, Fire and Snow Hydrology
@@ -103,7 +113,7 @@
 
     - name: Ross Mower
       website: https://www.linkedin.com/in/rossmower/
-      role: Associate Scientist, NCAR; MIDS Student, Berkeley
+      role: Associate Scientist, NCAR; MIDS Student
       image: ross.jpeg
 
     - name: Sean Metzger
