@@ -63,7 +63,7 @@ hr.style-seven:before { /* Not really supposed to work, but does */
 
 @media only screen and (max-width: 650px) {
     .nav_logo1 {
-        width:6em !important;
+        width:15em !important;
     }
     .nav_logo2 {
         width:11em !important;
