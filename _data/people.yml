@@ -1,5 +1,11 @@
 - title: Faculty and Scientists
   people:
+  
+    - name: Aditi Krishnapriyan
+      website: https://a1k12.github.io
+      role: Alvarez Fellow at Berkeley Lab and UC Berkeley
+      image: aditi.png
+
     - name: Alberto Todeschini
       website: https://www.ischool.berkeley.edu/people/alberto-todeschini
       role: AI Lecturer, School of Information
@@ -24,6 +30,11 @@
       website: https://ourenvironment.berkeley.edu/users/1636803
       role: Assistant Professor, Environmental Science
       image: manuela.jpeg
+
+    - name: Puya Vahabi
+      website: https://www.ischool.berkeley.edu/people/puya-h-vahabi
+      role: AI Lecturer, School of Information
+      image: puya.jpg
 
     - name: Shankar Sastry
       website: https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html
