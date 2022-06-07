@@ -3,7 +3,7 @@
   
     - name: Aditi Krishnapriyan
       website: https://a1k12.github.io
-      role: Alvarez Fellow at Berkeley Lab and UC Berkeley
+      role: Assistant Professor, EECS and ChemE 
       image: aditi.png
 
     - name: Alberto Todeschini
@@ -23,7 +23,7 @@
 
     - name: Kurt Keutzer
       website: http://people.eecs.berkeley.edu/~keutzer/
-      role: Professor, BAIR
+      role: Professor, Berkeley AI Research
       image: kurt.jpg
 
     - name: Manuela Girotto
