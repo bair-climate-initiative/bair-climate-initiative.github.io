@@ -1,3 +1,7 @@
+- title: Coral Reef Restoration
+  image: coral.jpg
+  description: The BCI is working with a coral reef restoration non-profit to create machine learning models that can create proxy estimates of coral reef health through the creation of better depth estimation, object detection and tracking, and regression models that work underwater. These models are deployed in real-time inference, low power settings.
+
 - title: Fate of Snow
   image: fos.jpg
   description: To drive research and development for Observational, Multimodal, Multiscale, Spatiotemporal (OMMS) data sources, the BCI is launching a benchmark paired with an international prize competition focused on the 'Fate of Snow' in partnership with Lawrence Berkeley National Laboratory and industrial partners. The Fate of Snow project will aim to model and predict the partitioning of snow over basin-scales in high-altitude complex terrain. By combining a range of remote sensing, in-situ, and simulated data sources, we aim to create a multifaceted benchmark of estimates of observational constraints on the major fluxes of water including evapotranspiration, snow sublimation, infiltration and runoff.
@@ -8,7 +12,7 @@
 
 - title: Animal Re-Identification in Camera Traps
   image: elephants.png
-  description: Poaching of Gorillas, Chimpanzees, and Elephants is a major problem for the National Park Service in Nigeria. Currently, there is no good way to keep track of the count of individual species in these parks. Given still images from the camera traps in these parks, our objective is to find out if computer vision techniques can be used to automatically obtain a count of the different species. It would be time-consuming to have human annotators/biologists manually go through all the data and label it. We would like to use unsupervised and self-supervised methods, like those used in human face recognition, to automate this task. 
+  description: Poaching of Gorillas, Chimpanzees, and Elephants is a major problem for the National Park Service in Nigeria. Currently, there is no good way to keep track of the count of individual species in these parks. Given still images from the camera traps in these parks, our objective is to find out if computer vision techniques can be used to automatically obtain a count of the different species. It would be time-consuming to have human annotators/biologists manually go through all the data and label it. We would like to use unsupervised and self-supervised methods, like those used in human face recognition, to automate this task.
 
 - title: NumS
   image: nums.jpeg
