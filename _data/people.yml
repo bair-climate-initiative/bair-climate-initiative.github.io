@@ -1,9 +1,8 @@
 - title: Faculty and Scientists
   people:
-  
     - name: Aditi Krishnapriyan
       website: https://a1k12.github.io
-      role: Assistant Professor, EECS and Chem-Eng 
+      role: Assistant Professor, EECS and Chem-Eng
       image: aditi.png
 
     - name: Alberto Todeschini
@@ -15,7 +14,7 @@
       website: http://people.eecs.berkeley.edu/~kanazawa/
       role: Assistant Professor, Berkeley AI Research
       image: angjoo_photo.jpg
-  
+
     - name: Daniel Feldman
       website: https://eesa.lbl.gov/profiles/daniel-feldman/
       role: Staff Scientist, Berkeley Lab
@@ -45,11 +44,11 @@
       website: https://www2.eecs.berkeley.edu/Faculty/Homepages/sastry.html
       role: Professor and Director, Richard C. Blum Center for Developing Economies
       image: sastry.jpeg
-      
+
     - name: Sherrie Wang
       website: http://www.globalpolicy.science/sherrie-wang
       role: Postdoc, Global Policy Lab
-      image: sherrie.jpg  
+      image: sherrie.jpg
 
     - name: Trevor Darrell
       website: https://people.eecs.berkeley.edu/~trevor/
@@ -58,30 +57,23 @@
 
 - title: Organizers
   people:
-    - name: Colorado Reed
-      website: https://people.eecs.berkeley.edu/~cjrd/
-      role: BAIR Ph.D. Candidate
-      image: colorado.jpeg
+    - name: Ritwik Gupta
+      website: https://ritwikgupta.me/
+      role: BAIR Ph.D. Student
+      image: ritwik.jpeg
 
     - name: Medhini Narasimhan
       website: https://medhini.github.io/
       role: BAIR Ph.D. Candidate
       image: medhini.png
 
-    - name: Ritwik Gupta
-      website: https://ritwikgupta.me/
-      role: BAIR Ph.D. Student
-      image: ritwik.jpeg
-
-
 - title: Researchers and Students
   people:
-  
     - name: Ankur Mahesh
       website: https://www.linkedin.com/in/ankurmahesh/
       role: Ph.D. Student, Earth and Planetary Sciences
       image: ankur.jpg
-  
+
     - name: Araav Patel
       website: https://www.linkedin.com/in/araavpatel/
       role: Undergraduate, EECS
@@ -111,17 +103,17 @@
       website: http://hariprasanna.com
       role: BAIR Ph.D. Student
       image: hari.jpeg
-    
+
     - name: Kayla Wopschall
       website: https://www.ischool.berkeley.edu/people/kayla-wopschall
-      role: Applied and Data Scientist with Microsoft, Ph.D. 
+      role: Applied and Data Scientist with Microsoft, Ph.D.
       image: kayla.jpg
-  
+
     - name: Malachy Moran
       website: https://www.ischool.berkeley.edu/people/malachy-moran
       role: Data Scientist and MIDS graduate
       image: mal.jpg
-    
+
     - name: Marianne Cowherd
       website: https://nature.berkeley.edu/stephenslab/lab-members/marianne-cowherd/
       role: Ph.D. Candidate, Fire and Snow Hydrology
@@ -141,9 +133,8 @@
       website: https://sean-metzger.github.io
       role: Bioengineering Ph.D. Candidate, UCSF & Berkeley
       image: seanm.jpg
-    
+
     - name: Shiheng Duan
       website: https://scholar.google.com/citations?user=OymODQIAAAAJ&hl=en
       role: UC Davis Ph.D. Student, Atmospheric Science
-      image: shiheng.png  
-      
+      image: shiheng.png
