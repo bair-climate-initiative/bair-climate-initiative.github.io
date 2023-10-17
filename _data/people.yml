@@ -62,11 +62,6 @@
       role: BAIR Ph.D. Student
       image: ritwik.jpeg
 
-    - name: Medhini Narasimhan
-      website: https://medhini.github.io/
-      role: BAIR Ph.D. Candidate
-      image: medhini.png
-
 - title: Researchers and Students
   people:
     - name: Ankur Mahesh
